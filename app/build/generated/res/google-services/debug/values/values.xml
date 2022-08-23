@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">521963865449-bm6k42i4dka25lel1onmvpd041ltpr6n.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">521963865449</string>
+    <string name="google_api_key" translatable="false">AIzaSyDGqwNaiRHeLAPehC9bMKp2i-s9-zB9cuA</string>
+    <string name="google_app_id" translatable="false">1:521963865449:android:ee0e7378f1a9350b1ce9f8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDGqwNaiRHeLAPehC9bMKp2i-s9-zB9cuA</string>
+    <string name="google_storage_bucket" translatable="false">hotelbooking-9e95f.appspot.com</string>
+    <string name="project_id" translatable="false">hotelbooking-9e95f</string>
+</resources>
